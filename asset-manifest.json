@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/word-games/static/css/main.e6c13ad2.css",
+    "main.js": "/word-games/static/js/main.de0699ea.js",
+    "static/js/787.d5df6081.chunk.js": "/word-games/static/js/787.d5df6081.chunk.js",
+    "index.html": "/word-games/index.html",
+    "main.e6c13ad2.css.map": "/word-games/static/css/main.e6c13ad2.css.map",
+    "main.de0699ea.js.map": "/word-games/static/js/main.de0699ea.js.map",
+    "787.d5df6081.chunk.js.map": "/word-games/static/js/787.d5df6081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.de0699ea.js"
+  ]
+}
